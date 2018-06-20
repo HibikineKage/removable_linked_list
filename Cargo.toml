@@ -1,0 +1,6 @@
+[package]
+name = "removable_linked_list"
+version = "0.1.0"
+authors = ["Hibikine Kage <goodsmile314159@gmail.com>"]
+
+[dependencies]
